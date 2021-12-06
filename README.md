@@ -22,9 +22,3 @@
 [![GitHub Ersin Karaduman](https://img.shields.io/github/followers/Ersin2004?label=follow&style=social)](https://github.com/Ersin2004)
 
 <div align="center">
-
-## Take a quick look at my repositories ❤️!
-[![Ersin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ersin2004&theme=radical)](https://github.com/Ersin2004)
-
- <img src="https://komarev.com/ghpvc/?username=Ersin2004&label=Views&color=brightgreen&style=flat" alt="Ersin2004" />
-</div>
