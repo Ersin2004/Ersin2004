@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently studing on [School](https://www.bit-academy.nl).
-- 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/)and [Laravel](https://laravel.com/).
+- 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/) and [Laravel](https://laravel.com/).
 - 💬 Ask me about Front-End or Back-End related stuff.
 - 📫 How to reach me: [Linkedin - Ersin Karaduman](https://www.linkedin.com/in/ersin-karaduman-b49130217/)
 - 😄 Gender: Male
