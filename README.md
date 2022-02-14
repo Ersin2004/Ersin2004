@@ -16,7 +16,7 @@
 - 💬 Ask me about Front-End or Back-End related stuff.
 - 📫 How to reach me: [Linkedin - Ersin Karaduman](https://www.linkedin.com/in/ersin-karaduman-b49130217/)
 - 😄 Gender: Male
-- ⚡ Hobby's: Gaming and writing coding!
+- ⚡ Hobby's: Gaming and writing code!
 
 [![Linkedin: Ersin Karaduman](https://img.shields.io/badge/-Ersin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ersin-karaduman-b49130217/)](https://www.linkedin.com/in/ersin-karaduman-39a29721a/)
 [![GitHub Ersin Karaduman](https://img.shields.io/github/followers/Ersin2004?label=follow&style=social)](https://github.com/Ersin2004)
