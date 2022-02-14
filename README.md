@@ -11,8 +11,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [School](https://www.bit-academy.nl).
-- 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/).
+- 🔭 I’m currently studing on [School](https://www.bit-academy.nl).
+- 🌱 I’m currently learning more about [TailwindCSS](https://tailwindcss.com/), encryptions and Laravel.
 - 💬 Ask me about Front-End or Back-End related stuff.
 - 📫 How to reach me: [Linkedin - Ersin Karaduman](https://www.linkedin.com/in/ersin-karaduman-b49130217/)
 - 😄 Gender: Male
