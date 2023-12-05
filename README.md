@@ -10,12 +10,10 @@
 <br/>
 <br/>
 
-
-- 🔭 I’m currently studying on [School](https://www.bit-academy.nl).
-- 🌱 I’m currently learning more about [Laravel](https://laravel.com/).
+- 🔭 I’m currently studying on [HvA](https://www.hva.nl/).
+- 🌱 I’m currently learning more about [TypeScipt](https://www.typescriptlang.org/) and [Laravel](https://laravel.com/).
 - 💬 Ask me about Front-End or Back-End related stuff.
 - 📫 How to reach me: [Linkedin - Ersin Karaduman](https://www.linkedin.com/in/ersin-karaduman-b49130217/)
-- 😄 Gender: Male
 - ⚡ Hobby's: Gaming and writing code!
 
 [![Linkedin: Ersin Karaduman](https://img.shields.io/badge/-Ersin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ersin-karaduman-b49130217/)](https://www.linkedin.com/in/ersin-karaduman-39a29721a/)
